@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="mazereact.client/mazereact.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="MazeReact.Server/MazeReact.Server.csproj" />
+</Solution>
